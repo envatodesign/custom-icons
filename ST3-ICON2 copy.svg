@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Sumblime Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="94.6767379%" id="linearGradient-1">
+            <stop stop-color="#112B66" offset="0%"></stop>
+            <stop stop-color="#0D1B3B" offset="27.1185427%"></stop>
+            <stop stop-color="#0F2240" offset="97.2385296%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="882" height="776" rx="32"></rect>
+        <filter x="-3.9%" y="-3.4%" width="107.7%" height="108.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="14.8407297%" x2="50%" y2="84.5689514%" id="linearGradient-5">
+            <stop stop-color="#251242" offset="0%"></stop>
+            <stop stop-color="#0E1C3A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="20" y="22" width="842" height="736" rx="22"></rect>
+        <linearGradient x1="50%" y1="75.8051658%" x2="50%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#101217" offset="0%"></stop>
+            <stop stop-color="#15181E" offset="24.1948342%"></stop>
+            <stop stop-color="#1C1F28" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#6EEAF0" offset="0%"></stop>
+            <stop stop-color="#0080FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.0045041%" x2="50%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#23262D" offset="0%"></stop>
+            <stop stop-color="#2B303B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0001132%" y1="100%" x2="50.0001132%" y2="0%" id="linearGradient-11">
+            <stop stop-color="#21252F" offset="0%"></stop>
+            <stop stop-color="#191C22" offset="62.703125%"></stop>
+            <stop stop-color="#0C0E10" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="50%" id="linearGradient-12">
+            <stop stop-color="#4E5A66" offset="0%"></stop>
+            <stop stop-color="#48525C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#313742" offset="0%"></stop>
+            <stop stop-color="#373C47" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#6EEAF0" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#C23434" offset="0%"></stop>
+            <stop stop-color="#CC921D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.0401012%" id="linearGradient-16">
+            <stop stop-color="#C23434" offset="0%"></stop>
+            <stop stop-color="#CC921D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.28546468%" x2="50%" y2="97.701409%" id="linearGradient-17">
+            <stop stop-color="#1D4D75" offset="0%"></stop>
+            <stop stop-color="#8A1EE2" stop-opacity="0.786316803" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#1D4D75" offset="0%"></stop>
+            <stop stop-color="#8A1EE2" stop-opacity="0.78478827" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.500000,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-19">
+            <stop stop-color="#89BCE1" offset="0%"></stop>
+            <stop stop-color="#353D44" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="70.7106781%" gradientTransform="translate(0.500000,0.500000),rotate(45.000000),scale(1.000000,0.426209),translate(-0.500000,-0.500000)" id="radialGradient-20">
+            <stop stop-color="#FFFC00" offset="0%"></stop>
+            <stop stop-color="#94DE43" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="21.1555041%" y1="65.2612712%" x2="100%" y2="0%" id="linearGradient-21">
+            <stop stop-color="#4C1B8D" offset="0%"></stop>
+            <stop stop-color="#CA3D3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100.05157%" y2="99.0706728%" id="linearGradient-22">
+            <stop stop-color="#4C1B8D" offset="0%"></stop>
+            <stop stop-color="#CA3D3D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="61.9594581%" y2="100%" id="linearGradient-23">
+            <stop stop-color="#41DEFC" stop-opacity="0.888077446" offset="0%"></stop>
+            <stop stop-color="#2CCA69" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.500000,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-24">
+            <stop stop-color="#89BCE1" offset="0%"></stop>
+            <stop stop-color="#353D44" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="125%" gradientTransform="translate(0.500000,0.000000),scale(0.666667,1.000000),rotate(53.130102),scale(1.000000,0.688852),translate(-0.500000,-0.000000)" id="radialGradient-25">
+            <stop stop-color="#89BCE1" offset="0%"></stop>
+            <stop stop-color="#353D44" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="100%" y1="0%" x2="11.8228422%" y2="100%" id="linearGradient-26">
+            <stop stop-color="#41DEFC" stop-opacity="0.888077446" offset="0%"></stop>
+            <stop stop-color="#2CCA69" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.55401012%" x2="50%" y2="100%" id="linearGradient-27">
+            <stop stop-color="#C23434" offset="0%"></stop>
+            <stop stop-color="#CC921D" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.666667,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-28">
+            <stop stop-color="#FFFC00" offset="0%"></stop>
+            <stop stop-color="#94DE43" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="1.77700506%" x2="50%" y2="100%" id="linearGradient-29">
+            <stop stop-color="#41DEFC" stop-opacity="0.888077446" offset="0%"></stop>
+            <stop stop-color="#2CCA69" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.666667,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-30">
+            <stop stop-color="#FFFC00" offset="0%"></stop>
+            <stop stop-color="#94DE43" offset="98.8371568%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-31">
+            <stop stop-color="#89BCE1" offset="0%"></stop>
+            <stop stop-color="#353D44" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-32">
+            <stop stop-color="#D635BB" offset="0%"></stop>
+            <stop stop-color="#6A1DB2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-33" x="20" y="22" width="842" height="736" rx="22"></rect>
+        <filter x="-1.9%" y="-2.2%" width="103.8%" height="104.3%" filterUnits="objectBoundingBox" id="filter-35">
+            <feGaussianBlur stdDeviation="16" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.500820879 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="63.3629624%" id="linearGradient-36">
+            <stop stop-color="#000000" stop-opacity="0.15" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="52.2460938%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Sumblime-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(70.000000, 120.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Border">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <mask id="mask-7" fill="white">
+                <use xlink:href="#path-6"></use>
+            </mask>
+            <use id="Real-Background" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+            <g id="Rest" mask="url(#mask-7)">
+                <g transform="translate(20.000000, 124.000000)">
+                    <rect id="Bottom-Bar" fill="url(#linearGradient-8)" x="0" y="554" width="842" height="80"></rect>
+                    <polygon id="Scroll-Bar" fill="url(#linearGradient-9)" points="836 554 842 554 842 0 836 0"></polygon>
+                    <rect id="Status" fill="url(#linearGradient-10)" x="18" y="574" width="120" height="40"></rect>
+                    <rect id="Language" fill="url(#linearGradient-10)" x="704" y="574" width="120" height="40"></rect>
+                    <rect id="Language" fill="url(#linearGradient-10)" x="524" y="574" width="160" height="40"></rect>
+                </g>
+            </g>
+            <g id="Top-Bar" mask="url(#mask-7)">
+                <g transform="translate(20.000000, 22.000000)">
+                    <rect id="Background" fill="url(#linearGradient-11)" fill-rule="evenodd" x="0" y="0" width="842" height="100"></rect>
+                    <rect id="Tab" fill="#2B303B" fill-rule="evenodd" x="0" y="0" width="223.304136" height="100"></rect>
+                    <rect id="Selected" fill="url(#linearGradient-12)" fill-rule="evenodd" x="34.8272506" y="36" width="122.919708" height="40"></rect>
+                    <text id="index.html" fill="none" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300">
+                        <tspan x="62.5" y="57" fill="#FFFFFF">index.html</tspan>
+                    </text>
+                    <rect id="Unselected" fill="url(#linearGradient-13)" fill-rule="evenodd" x="251.985401" y="36" width="122.919708" height="40"></rect>
+                    <text id="main.js" fill="none" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300">
+                        <tspan x="287.9" y="55" fill="#FFFFFF">main.js</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Text" mask="url(#mask-7)">
+                <g transform="translate(52.000000, 146.000000)">
+                    <g id="Line-Numbers">
+                        <rect id="Tab-Name-9" fill="#373C47" x="0" y="392" width="40" height="40"></rect>
+                        <rect id="Tab-Name-9-Copy" fill="#373C47" x="0" y="392" width="40" height="40"></rect>
+                        <text id="8" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="17.2" y="410">8</tspan>
+                        </text>
+                        <rect id="Tab-Name-8" fill="#373C47" x="0" y="336" width="40" height="40"></rect>
+                        <text id="7" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.7" y="354">7</tspan>
+                        </text>
+                        <rect id="Tab-Name-7" fill="#373C47" x="0" y="280" width="40" height="40"></rect>
+                        <text id="6" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.7" y="298">6</tspan>
+                        </text>
+                        <rect id="Tab-Name-6" fill="#373C47" opacity="0.5" x="0" y="224" width="40" height="40"></rect>
+                        <text id="5" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.2" y="243">5</tspan>
+                        </text>
+                        <rect id="Tab-Name-5" fill="#373C47" x="0" y="168" width="40" height="40"></rect>
+                        <text id="4" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.2" y="188">4</tspan>
+                        </text>
+                        <rect id="Tab-Name-4" fill="#373C47" x="0" y="112" width="40" height="40"></rect>
+                        <text id="3" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="17.2" y="130">3</tspan>
+                        </text>
+                        <rect id="Tab-Name-11" fill="#373C47" x="0" y="56" width="40" height="40"></rect>
+                        <text id="2" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.2" y="76">2</tspan>
+                        </text>
+                        <rect id="Tab-Name-3" fill="#373C47" x="0" y="0" width="40" height="40"></rect>
+                        <text id="1" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.2" y="21">1</tspan>
+                        </text>
+                        <rect id="Tab-Name-10" fill="#373C47" x="0" y="448" width="40" height="40"></rect>
+                        <text id="9" font-family="OperatorMono-XLightItalic, Operator Mono" font-size="12" font-style="italic" font-weight="300" fill="#FFFFFF">
+                            <tspan x="16.7" y="465">9</tspan>
+                        </text>
+                    </g>
+                    <g id="Code" opacity="0.9" transform="translate(72.000000, 0.000000)">
+                        <rect id="Tab-Name-4" fill="url(#linearGradient-9)" x="0" y="0" width="100" height="40"></rect>
+                        <rect id="Tab-Name-4" fill="url(#linearGradient-14)" x="116" y="0" width="60" height="40"></rect>
+                        <polygon id="Tab-Name-7" fill="url(#linearGradient-15)" points="96 152 196 152 196 112 96 112"></polygon>
+                        <polygon id="Tab-Name-7" fill="url(#linearGradient-16)" points="410 208 510 208 510 168 410 168"></polygon>
+                        <polygon id="Tab-Name-7" fill="url(#linearGradient-17)" points="106 208 242 208 242 168 106 168"></polygon>
+                        <polygon id="Tab-Name-7" fill="url(#linearGradient-18)" points="258 208 394 208 394 168 258 168"></polygon>
+                        <rect id="Tab-Name-4" fill="url(#radialGradient-19)" x="0" y="56" width="80" height="40"></rect>
+                        <rect id="Tab-Name-4" fill="url(#radialGradient-20)" x="96" y="56" width="40" height="40"></rect>
+                        <rect id="Tab-Name-4" fill="url(#linearGradient-21)" x="152" y="56" width="80" height="40"></rect>
+                        <polygon id="Tab-Name-6" fill="url(#linearGradient-22)" points="0 152 80 152 80 112 0 112"></polygon>
+                        <polygon id="Tab-Name-8" fill="url(#linearGradient-23)" points="40 208 90 208 90 168 40 168"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#radialGradient-24)" points="106 376 186 376 186 336 106 336"></polygon>
+                        <path d="M144,264 L204,264 L204,254.773438 L204,224 L144,224 L144,264 Z" id="Tab-Name-9" fill="url(#radialGradient-25)"></path>
+                        <polygon id="Tab-Name-9" fill="url(#linearGradient-26)" points="66 432 106 432 106 392 66 392"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#linearGradient-27)" points="220 264 320 264 320 224 220 224"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#radialGradient-28)" points="186 320 246 320 246 280 186 280"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#linearGradient-29)" points="318 320 428 320 428 280 318 280"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#radialGradient-30)" points="444 320 504 320 504 280 444 280"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#linearGradient-9)" points="90 320 170 320 170 280 90 280"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#radialGradient-31)" points="262 320 302 320 302 280 262 280"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#linearGradient-15)" points="40 376 90 376 90 336 40 336"></polygon>
+                        <polygon id="Tab-Name-9" fill="url(#linearGradient-32)" points="0 432 50 432 50 392 0 392"></polygon>
+                    </g>
+                </g>
+            </g>
+            <mask id="mask-34" fill="white">
+                <use xlink:href="#path-33"></use>
+            </mask>
+            <g id="Inner-Shadow" fill="black" fill-opacity="1">
+                <use filter="url(#filter-35)" xlink:href="#path-33"></use>
+            </g>
+            <rect id="Lowlights" fill="url(#linearGradient-36)" mask="url(#mask-34)" x="0" y="0" width="882" height="776"></rect>
+        </g>
+    </g>
+</svg>
